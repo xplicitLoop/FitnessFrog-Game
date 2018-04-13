@@ -1,6 +1,6 @@
 using System;
 
-namespace Treehouse.FitnessFrog
+namespace xplicitLoop.FitnessFrog
 {
     class Program
     {
